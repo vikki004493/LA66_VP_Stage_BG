@@ -1,0 +1,12 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"F:/LA66_VP/LA66_VP_Stage/Content/StarterContent/Audio/Collapse01.uasset"
+			]
+		}
+	]
+}
