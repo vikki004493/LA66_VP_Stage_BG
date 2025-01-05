@@ -5,6 +5,26 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/ROG/Documents/GitHub/LA66_VP_Stage_BG/LA66_VP_Stage/Content/Main_world/Main.umap",
+				"C:/Users/ROG/Documents/GitHub/LA66_VP_Stage_BG/LA66_VP_Stage/Content/DeadHillsLandscape/Maps/Overview/Overview.umap",
+				"D:/Work software/Epic Games/UE_5.3/Engine/Content/Ultra_Dynamic_Sky/Readme/UDSReadme_Settings.uasset",
+				"C:/Users/ROG/Documents/GitHub/LA66_VP_Stage_BG/LA66_VP_Stage/Content/Main_world/SM_WBHouse.uasset",
+				"C:/Users/ROG/Documents/GitHub/LA66_VP_Stage_BG/LA66_VP_Stage/Content/Dark_Medieval_Environment/Maps/Dark_Medieval_Environment_001.umap",
+				"C:/Users/ROG/Documents/GitHub/LA66_VP_Stage_BG/LA66_VP_Stage/Content/Dark_Medieval_Environment/Sequencers/EditorMoviePipelineQueue.uasset",
+				"C:/Users/ROG/Documents/GitHub/LA66_VP_Stage_BG/LA66_VP_Stage/Content/Dark_Medieval_Environment/Sequencers/NewLevelSequence.uasset",
+				"C:/Users/ROG/Documents/GitHub/LA66_VP_Stage_BG/LA66_VP_Stage/Content/Dark_Medieval_Environment/Sequencers/Pending_MoviePipelineMasterConfig_ID_4kRender.uasset",
+				"C:/Users/ROG/Documents/GitHub/LA66_VP_Stage_BG/LA66_VP_Stage/Content/Dark_Medieval_Environment/Sequencers/Pending_MoviePipelinePrimaryConfig.uasset",
+				"C:/Users/ROG/Documents/GitHub/LA66_VP_Stage_BG/LA66_VP_Stage/Content/Dark_Medieval_Environment/Sequencers/Render_00.uasset",
+				"C:/Users/ROG/Documents/GitHub/LA66_VP_Stage_BG/LA66_VP_Stage/Content/Dark_Medieval_Environment/Sequencers/Render_01.uasset",
+				"C:/Users/ROG/Documents/GitHub/LA66_VP_Stage_BG/LA66_VP_Stage/Content/Dark_Medieval_Environment/Sequencers/Render_02.uasset",
+				"C:/Users/ROG/Documents/GitHub/LA66_VP_Stage_BG/LA66_VP_Stage/Content/Dark_Medieval_Environment/Sequencers/Render_03.uasset",
+				"C:/Users/ROG/Documents/GitHub/LA66_VP_Stage_BG/LA66_VP_Stage/Content/Dark_Medieval_Environment/Sequencers/Render_04.uasset",
+				"C:/Users/ROG/Documents/GitHub/LA66_VP_Stage_BG/LA66_VP_Stage/Content/Dark_Medieval_Environment/Sequencers/Render_05.uasset",
+				"C:/Users/ROG/Documents/GitHub/LA66_VP_Stage_BG/LA66_VP_Stage/Content/Dark_Medieval_Environment/Sequencers/Render_06.uasset",
+				"C:/Users/ROG/Documents/GitHub/LA66_VP_Stage_BG/LA66_VP_Stage/Content/Dark_Medieval_Environment/Sequencers/Render_07.uasset",
+				"C:/Users/ROG/Documents/GitHub/LA66_VP_Stage_BG/LA66_VP_Stage/Content/Dark_Medieval_Environment/Sequencers/Render_08.uasset",
+				"C:/Users/ROG/Documents/GitHub/LA66_VP_Stage_BG/LA66_VP_Stage/Content/Dark_Medieval_Environment/Sequencers/Render_09.uasset",
+				"C:/Users/ROG/Documents/GitHub/LA66_VP_Stage_BG/LA66_VP_Stage/Content/Dark_Medieval_Environment/Sequencers/Thumb.uasset",
 				"F:/LA66_VP/LA66_VP_Stage/Content/StarterContent/Audio/Collapse01.uasset"
 			]
 		}
