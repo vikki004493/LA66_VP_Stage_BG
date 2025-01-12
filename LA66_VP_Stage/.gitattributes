@@ -1,0 +1,2 @@
+*.umap filter=lfs diff=lfs merge=lfs -text
+Content/Main_world/Main.umap filter=lfs diff=lfs merge=lfs -text
